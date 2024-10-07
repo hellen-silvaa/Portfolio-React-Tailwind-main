@@ -36,12 +36,16 @@ Construir um site de portfólio pessoal que inclua as seguintes seções:
    git clone https://github.com/seu-usuario/meu-portfolio.git
 
 2. Instale as dependências:
+   ```bash
    npm install
 
 2. Inicie o projeto:
-  npm run dev
+   ```bash
+   npm run dev
 
-3. O site estará rodando localmente em http://localhost:3000.
+4. O site estará rodando localmente em:
+   ```bash
+    http://localhost:3000.
 
 ## **Melhorias Futuras**
 
